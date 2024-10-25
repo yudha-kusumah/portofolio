@@ -280,14 +280,14 @@ span {
 }
 .portfolio-content {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
   gap: 1rem;
   margin-top: 2rem;
 }
 
 .certificate-content {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(500px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
   gap: 2rem;
   margin-top: 2rem;
 }
